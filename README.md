@@ -17,7 +17,7 @@ Sou biomedico e cientista de dados, trabalho com projetos principalmente relacio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"  width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="40" height="40" />
-  
+ 
           
           
   </a>
@@ -39,7 +39,7 @@ Sou biomedico e cientista de dados, trabalho com projetos principalmente relacio
 * **Objetivo:** Desenvolver um modelo para classificar e estimar alvos do sistema endocanabinoide a partir de dados clínicos acessíveis, como peso, IMC e exames de bioquímica.
 * **Metodologia:** Implementação de um pipeline de machine learning completo, incluindo pré-processamento de dados, comparação de métodos de imputação e otimização de uma rede neural.
 * **Resultados:** O modelo final alcançou uma acurácia de 89,7% e AUC-ROC de 94,2%, superando modelos lineares tradicionais na classificação.
-
+ <img src="https://media.discordapp.net/attachments/623300452552802305/1400890121439416533/image.png?ex=688e4818&is=688cf698&hm=4a418e53892a22d6b192d3f8f8d7aa724286cb9deac62f7021046918098c81f1&=&format=webp&quality=lossless&width=427&height=465" width="427" height="465" />
 ### Predição de Marcadores de Risco Cardiometabólico com Deep Learning
 * **Objetivo:** Testar a hipótese de que há uma modulação diferencial do sistema endocanabinoide com o avançar da idade, em mulheres.
 * **Metodologia:** Após realização do estudo clínio, analises de modelos mistos, AUC, regressões lineares, correlações, distribuição dos dados e PCA, tirar insight inétidos sobre a modulação de um sistema importante para saúde cardiovascular
