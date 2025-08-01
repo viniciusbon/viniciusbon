@@ -33,9 +33,8 @@ Sou biomedico e cientista de dados, trabalho com projetos principalmente relacio
 * **Genômica/Microbioma:** Análise de dados da plataforma Illumina, QIIME 2 (análise de RNAr 16S e ITS) em Linux.
 * **Técnicas:** Análise de dados de metabolômica RMN e expressão gênica (RT-PCR), Metabo Analyst, desenho e controle de qualidade de primers e ELISA.
 
-## Projetos de Destaque
-
-### Predição de Marcadores de Risco Cardiometabólico com Deep Learning
+### Projetos de Destaque
+** Predição de Marcadores de Risco Cardiometabólico com Deep Learning**
 * **Objetivo:** Desenvolver um modelo para classificar e estimar alvos do sistema endocanabinoide a partir de dados clínicos acessíveis, como peso, IMC e exames de bioquímica.
 * **Metodologia:** Implementação de um pipeline de machine learning completo, incluindo pré-processamento de dados, comparação de métodos de imputação e otimização de uma rede neural.
 * **Resultados:** O modelo final alcançou uma acurácia de 89,7% e AUC-ROC de 94,2%, superando modelos lineares tradicionais na classificação.
