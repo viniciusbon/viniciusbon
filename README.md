@@ -22,6 +22,7 @@ Sou biomedico e cientista de dados, trabalho com projetos principalmente relacio
           
   </a>
 </p>
+
 ### Machine Learning & Deep Learning
 * **Modelos:** Random Forest, Decision Trees, k-Nearest Neighbors (KNN), K-means, Regressões (Linear, Polinomial e Logística), PCA, Análise de sentimentos e Natural Language Processing (NLTK).
 * **Deep Learning:** Redes Neurais (ANN, CNN), SVM, Gradient Boosting (XGBoost, LightGBM), Modelos para Séries Temporais.
