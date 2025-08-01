@@ -2,7 +2,7 @@
 <h3>#Cientista de Dados#Bioinformática</h3>
 
 ## Sobre mim
-Sou biomedico e cientista de dados, trabalho com projetos principalmente relacionados a machine learning e bioinformática. Durante meu mestrado na Universidade de São Paulo (USP), utilizei Python e R para análise estatística de dados de expressão gênica e metabolômica. Atualmente, estou cursando um MBA em Data Science & Analytics na USP/Esalq.
+Sou biomedico e cientista de dados, trabalho com projetos principalmente relacionados a machine learning e bioinformática. Durante meu mestrado na Universidade de São Paulo (USP), utilizei Python e R para análise estatística de dados de expressão gênica e metabolômica. Atualmente, estou cursando MBA em Data Science & Analytics na USP/Esalq.
 
 
 ### Linguagens e Bibliotecas
