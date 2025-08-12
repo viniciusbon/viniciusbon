@@ -41,7 +41,7 @@ Sou biomedico e cientista de dados, trabalho com projetos principalmente relacio
 * **Resultados:** O modelo final alcançou uma acurácia de 89,7% e AUC-ROC de 94,2%, superando modelos lineares tradicionais na classificação.
  <img src="https://media.discordapp.net/attachments/623300452552802305/1400922080589119598/Imagem1.jpg?ex=688e65db&is=688d145b&hm=164805e3519b4157eeaf2d52b4c125efb06b2b3111add51e53722a9ca344f529&=&format=webp&width=658&height=404" width="650" height="405" />
  
-* **Avaliação de Marcadores de Risco Cardiometabólico **
+* **Avaliação de Marcadores de Risco Cardiometabólico**
 * **Objetivo:** Testar a hipótese de que há uma modulação diferencial do sistema endocanabinoide com o avançar da idade, em mulheres.
 * **Metodologia:** Após realização do estudo clínio, analises de modelos mistos, AUC, regressões lineares, correlações, distribuição dos dados e PCA, tirar insight sobre a modulação de um sistema importante para saúde cardiometabólica.
 * **Resultados:** O sistema endocanabinoide é diferencialmente expresso com o envelhecimento, em mulheres e apresentou correlações interessantes com variados alvos moleculares.
