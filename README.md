@@ -33,18 +33,31 @@ Sou biomedico e cientista de dados, trabalho com projetos principalmente relacio
 * **Genômica/Microbioma:** Análise de dados da plataforma Illumina, QIIME 2 (análise de RNAr 16S e ITS) em Linux.
 * **Técnicas:** Análise de dados de metabolômica RMN e expressão gênica (RT-PCR), Metabo Analyst, desenho e controle de qualidade de primers e ELISA.
 
-### Projetos de Destaque
-**Classificação de Marcadores de Risco Cardiometabólico com Deep Learning**
+## Projetos de Data Science
 
-* **Objetivo:** Desenvolver um modelo para classificar e estimar alvos do sistema endocanabinoide a partir de dados clínicos acessíveis, como peso, IMC e exames de bioquímica.
-* **Metodologia:** Implementação de um pipeline de machine learning completo, incluindo pré-processamento de dados, comparação de métodos de imputação e otimização de uma rede neural.
-* **Resultados:** O modelo final alcançou uma acurácia de 89,7% e AUC-ROC de 94,2%, superando modelos lineares tradicionais na classificação.
- <img src="https://media.discordapp.net/attachments/623300452552802305/1407756308874006661/Graphical_Abstract_MBA.png?ex=68a742ba&is=68a5f13a&hm=dd89ecfea35a78c717fac0bb1cb4c6fe7b11d325cec511acf90e29657a7270c0&=&format=webp&quality=lossless&width=658&height=218" width="650" height="405" />
- 
-**Machine Learning para avaliar relação entre alvos utilizando expressão gênica**
-* **Objetivo:** Testar a hipótese de que há uma modulação diferencial do sistema endocanabinoide com o avançar da idade, em mulheres.
-* **Metodologia:** Após realização do estudo clínio, analises de modelos mistos, AUC, regressões lineares, correlações, distribuição dos dados e PCA, tirar insight sobre a modulação de um sistema importante para saúde cardiometabólica.
-* **Resultados:** O sistema endocanabinoide é diferencialmente expresso com o envelhecimento, em mulheres e apresentou correlações interessantes com variados alvos moleculares.
+### Classificação de Marcadores de Risco Cardiometabólico com Deep Learning | Projeto de MBA
+
+* **Objetivo**: Desenvolver um modelo para classificar os níveis de alvos do sistema endocanabinoide como elevados ou normais, avaliando sua importância no risco cardiometabólico de pacientes. Adicionalmente, foi criada uma rede neural para estimar os valores desses alvos a partir de dados clínicos de fácil aquisição, como peso, IMC e dados de bioquímica clínica.
+* **Metodologia**: Foi implementado um pipeline de machine learning completo, que incluiu o pré-processamento do dataframe, a comparação entre métodos de imputação de dados (MICE, KNN, Autoencoders) e o desenvolvimento e otimização de uma rede neural com frameworks como TensorFlow, Keras e Optuna, além da avaliação de overfitting e underfitting.
+* **Resultados**: O modelo final de deep learning atingiu uma acurácia de 89,7% e AUC-ROC de 94,2%. O desempenho foi superior ao de modelos lineares tradicionais, demonstrando alta capacidade para estimar biomarcadores complexos a partir de dados acessíveis.
+
+### Predição de Marcadores de Risco Cardiometabólico com Deep Learning | Projeto de MBA
+
+* **Objetivo**: Criar um modelo para prever os níveis de alvos do sistema endocanabinoide utilizando dados de fácil acesso na rotina clínica.
+* **Metodologia**: Implementou-se um pipeline de machine learning de ponta a ponta (End-to-End), englobando pré-processamento do dataframe, engenharia de features, comparação de métodos de imputação de dados (MICE, KNN, Autoencoders) e o desenvolvimento e otimização de uma rede neural.
+* **Resultados**: O modelo de deep learning superou o desempenho de modelos lineares tradicionais, como Regressão Linear Múltipla (OLS), e de modelos de regressão como XGBoost, Random Forest e Decision Trees.
+
+### Pipeline para Análise de Componentes Principais (PCA) | Projeto Autônomo
+
+* **Objetivo**: Desenvolver um pipeline em R para redução de dimensionalidade e criação de figuras para artigos científicos usando PCA.
+* **Metodologia**: O projeto consistiu na implementação de um pipeline robusto com várias opções de customização e figuras com versões em Inglês e Português. O processo incluiu pré-processamento dos dados, imputação, análise e exportação dos resultados para Artigos Científicos.
+
+### Agentes de IA | Projeto Autônomo
+
+* **Objetivo**: Desenvolver um pipeline com agentes de IA para realizar o processo de Extração, Transformação e Carga (ETL) de dados de exames de sangue para avaliação de saúde.
+* **Metodologia**: Foram utilizados múltiplos agentes de IA, via API e modelos disponíveis no Ollama, para adquirir, organizar e carregar os dados. Outro agente comparava os resultados com valores padronizados de exames para extrair insights sobre o estado de saúde.
+* **Resultados**: O modelo se mostrou satisfatório para a extração dos dados e para fornecer um feedback ao usuário.
+
 
 ## Contato
 * **Email:** viniciusbonfieti@live.com
